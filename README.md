@@ -6,8 +6,8 @@ Perfil institucional da Corumba Soluções em T.I.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/corumba-logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/corumba-logo-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset=".corumba/assets/corumba-logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset=".corumba/assets/corumba-logo-light.png">
   <img
     src="./assets/corumba-logo-light.png"
     alt="Corumba Soluções em T.I."
